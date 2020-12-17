@@ -1,0 +1,3 @@
+name: eks-vb-net
+runtime: dotnet
+description: A minimal VB.NET Pulumi program
